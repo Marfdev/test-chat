@@ -1,0 +1,25 @@
+{
+  "sample_assignment" : {
+    "assignment":{
+      "name": "Vectorized logo (1).svg-1677742382292",
+      "size": 2248,
+      "type": "image/svg+xml",
+      "url": "https://firebasestorage.googleapis.com/v0/b/chat-test-f395e.appspot.com/o/files%2Fchart.png-1677753036687?alt=media&token=725240df-8a3d-4ef5-8d38-803089655402"
+    },
+    "createdAt": "2/3/2023 · 08:33",
+    "displayName": "Manuel Rondon",
+    "serverTimestamp": "2 de marzo de 2023, 08:32:56 UTC+1",
+    "type":"assignment",
+    "uid": "Ko8G6lI45MNy1Kujekme5WCas8T2",
+    "versionNumber": 1677742382912
+  },
+  "sample_message": {
+    "createdAt": "2/3/2023 · 08:33",
+    "displayName": "Manuel Rondon",
+    "photoURL": "https://lh3.googleusercontent.com/a/AGNmyxZ1fnHGR3Db9GqZPSy4LGyphiYK-GMo_78FFK4O=s96-c",
+    "serverTimestamp": "2 de marzo de 2023, 08:33:05 UTC+1",
+    "text": "prueba Usuario 3",
+    "type": "text",
+    "uid": "Ko8G6lI45MNy1Kujekme5WCas8T2"
+  }
+}
